@@ -1,0 +1,27 @@
+main,body{
+	margin: 0px;
+}
+
+header{
+	background-color: #4298A4;
+}
+header h1,p{
+	color: white;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	font-size: 1.1em;
+}
+#survey-form{
+	margin: 0px;
+	background-color: #29818E;
+}
+#inputs{
+	width: 80%;
+	margin: auto;
+}
+input[type="submit"]{
+	color: red;
+}
